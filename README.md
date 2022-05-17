@@ -16,7 +16,8 @@ Oii gente! Eu sou a Jenni(fer). 👋
   <img align="center" alt="Jenni-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jenni-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenni-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="right" alt="Jenni-pic" height="120" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://discordapp.com/channels/@me/845147808842514472/976156523128565770)">
+     
 </div>
   
   ##
