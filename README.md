@@ -1,6 +1,6 @@
 Oii gente! Eu sou a Jenni(fer). 👋
 
-- 🌱 Atualmente estou estudando HTML5, CSS3 e Javascript.
+- 🌱 Estudante de Engenharia de Software
 - 📫 Me chame no: jennifer.sousads@gmail.com
 - 😄 Pronouns: ela/dela
 
